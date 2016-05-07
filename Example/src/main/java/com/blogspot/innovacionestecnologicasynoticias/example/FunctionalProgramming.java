@@ -12,7 +12,7 @@ package com.blogspot.innovacionestecnologicasynoticias.example;
 public class FunctionalProgramming {
     
     public static void main(String[] arg){
-        
+        System.out.println("com.blogspot.innovacionestecnologicasynoticias.example.FunctionalProgramming.main()");
     
     }
     
